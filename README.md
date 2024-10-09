@@ -8,14 +8,17 @@ No installation is required. You can run the script directly from your Python en
 
 ## Usage
 
+<pre>
+    git clone https://github.com/MrTG-CodeBot/java_py
+    cd java_py
+    python javac_run.py
+</pre>
+
 1.  Make sure you have Python 3 installed.
 2.  Clone or download this repository.
-     <pre>
-    git clone https://github.com/MrTG-CodeBot/java_py
-</pre>
-4.  Open a terminal or command prompt and navigate to the project directory.
-5.  Run the script with `python javac_run.py`.
-6.  Follow the interactive prompts:
+3.  Open a terminal or command prompt and navigate to the project directory.
+4.  Run the script with `python javac_run.py`.
+5.  Follow the interactive prompts:
     - Create or Edit folder file (Option 1): This allows you to set the folder path where your Java programs reside. You can either create a new file named `folderpath.txt` or edit an existing one.
     - Run Java code (Option 2): Enter the filename of the Java program you want to compile and execute, including the `.java` extension.
 
