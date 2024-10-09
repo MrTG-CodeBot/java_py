@@ -46,5 +46,4 @@ The script will compile and run your Java program.
 
 ## License
 
-Licensed under [GNU General Public License v3.0](https://github.com/MrTG-CodeBot/java_py/blob/main/LICENSE)
-Selling The Codes To Other People For Money Is *Strictly Prohibited*.
+Licensed under [GNU General Public License v3.0](https://github.com/MrTG-CodeBot/java_py/blob/main/LICENSE) for details check it now.
