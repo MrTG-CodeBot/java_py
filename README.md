@@ -9,7 +9,10 @@ No installation is required. You can run the script directly from your Python en
 ## Usage
 
 ## In git
+## Video Demo of using in git
 
+**Video File:**
+* [Video Title]("C:\Users\amaln\Downloads\1010.mp4")
 <pre>
     git clone https://github.com/MrTG-CodeBot/java_py
     cd java_py
