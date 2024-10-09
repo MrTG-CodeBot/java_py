@@ -21,7 +21,7 @@ No installation is required. You can run the script directly from your Python en
 5.  Follow the interactive prompts:
     - Create or Edit folder file (Option 1): This allows you to set the folder path where your Java programs reside. You can either create a new file named `folderpath.txt` or edit an existing one.
     - Run Java code (Option 2): Enter the filename of the Java program you want to compile and execute, including the `.java` extension.
-                                                                           ##OR
+                                                                           ## OR
 1.  Download the javac_run.py script (provided or linked here).
 2.  Open the script in a Python IDE like VS Code or PyCharm.
 3.  Run the script and follow the video for the related content.
