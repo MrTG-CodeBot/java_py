@@ -26,6 +26,4 @@ Let's assume you have a Java program named `HelloWorld.java` in a folder named `
 
 The script will compile and run your Java program.
 
-## License
 
-This code is distributed under the MIT License (see LICENSE.txt for details).
