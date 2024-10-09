@@ -26,4 +26,6 @@ Let's assume you have a Java program named `HelloWorld.java` in a folder named `
 
 The script will compile and run your Java program.
 
-
+## 🌐 contact me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrtg_coder)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/MrTG_Coder)
