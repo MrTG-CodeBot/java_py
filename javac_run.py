@@ -66,3 +66,7 @@ class JavaRunner:
           self.compile_and_execute(file_name)
       elif ch == "3":
         break
+
+if __name__ == "__main__":
+  runner = JavaRunner()
+  runner.run()
