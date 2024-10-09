@@ -11,7 +11,7 @@ No installation is required. You can run the script directly from your Python en
 1.  Make sure you have Python 3 installed.
 2.  Clone or download this repository.
      <pre>
-    git clone https://github.com/Devil-Botz/Elsa
+    git clone https://github.com/MrTG-CodeBot/java_py
 </pre>
 4.  Open a terminal or command prompt and navigate to the project directory.
 5.  Run the script with `python javac_run.py`.
