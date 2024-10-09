@@ -9,10 +9,7 @@ No installation is required. You can run the script directly from your Python en
 ## Usage
 
 ## In git
-## Video Demo of using in git
 
-**Video File:**
-* [Tutorial]("C:\Users\amaln\Downloads\1010.mp4")
 <pre>
     git clone https://github.com/MrTG-CodeBot/java_py
     cd java_py
@@ -46,3 +43,8 @@ The script will compile and run your Java program.
 ## 🌐 contact me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrtg_coder)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/MrTG_Coder)
+
+## License
+
+Licensed under [GNU General Public License v3.0](https://github.com/MrTG-CodeBot/java_py/blob/main/LICENSE)
+Selling The Codes To Other People For Money Is *Strictly Prohibited*.
